@@ -1,4 +1,4 @@
-# RAG with Anthropic's Citation
+# RAG with Anthropic's Citation Feature
 - Document Q&A system integrating Anthropic's citation and Microsoft's Markitdown to provide transparent, source-backed responses. The system processes documents and generates answers with precise in-text citations, preserving the traceability of information across multiple document. Uses markitdown for multiple file type management.This project uses uv for python management.
 - Details here :
   * Markitdown : https://github.com/microsoft/markitdown
